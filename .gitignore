@@ -2,9 +2,5 @@
 *.o
 *.obj
 *.out
-*.a
 .vscode/
 .DS_Store
-*.swp
-*.swo
-*~
